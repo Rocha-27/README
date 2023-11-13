@@ -3,4 +3,4 @@
 ## GRAVANDO MUDANÇAS NO REPOSITÓRIO
 
 * Comando git pull
-* Comando git fech
+* Comando git fetch
